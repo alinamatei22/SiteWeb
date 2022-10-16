@@ -1,0 +1,53 @@
+.cls{
+
+  outline: dotted red;
+  font-family: 'Tangerine';
+    text-align: center;
+  
+    color: black;
+    font-family: Copperplate, Papyrus, fantasy;
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(149, 50, 50));
+    padding :79 px ;
+    padding-top: 16px;
+  
+}
+
+.introducere{
+    text-align: center;
+   color :sienna;
+   font-family: Copperplate, Papyrus, fantasy;
+   
+ 
+   padding :80px;
+
+}
+
+.hobby{
+text-align: center;
+color:brown;
+font-family: 'Great Vibes', cursive;
+
+
+
+}
+
+.skills{
+  text-align: center;
+
+  background-color:darkkhaki;
+  font-family: Copperplate, Papyrus, fantasy;
+  padding: 18px;
+ 
+}
+
+.link{
+  text-align: center;
+  background-color: lavender;
+  padding: 40px;
+}
+
+.contact{
+  text-align: center;
+  padding :40px;
+  text-shadow: 2px 2px 5px red;
+}
